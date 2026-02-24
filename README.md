@@ -8,7 +8,7 @@
 ---
 
 ### 🔧 Skills & Tools  
-- **Languages:** Python, Java  
+- **Languages:** Python, Java, Flutter  
 - **Game Engines:** Unity, Unreal Engine  
 - **Cybersecurity:** BurpSuite, custom tool integration  
 - **Databases & GUI:** SQLite, Tkinter  
