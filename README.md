@@ -1,13 +1,13 @@
-# 👋 Hi, I’m Andres-Emilio Miranda
+#  Hi, I’m Andres-Emilio Miranda
 
 **Software Engineer & AI in Health MSc Student | Avid Learner**  
 
-🎓 Bachelor’s in **Software Engineering** (UAQ)  
-📚 Master’s in **AI for Health** (Stockholm University)  
+Bachelor’s in **Software Engineering** (UAQ)  
+ Master’s in **AI for Health** (Stockholm University)  
 
 ---
 
-### 🔧 Skills & Tools  
+###  Skills & Tools  
 - **Languages:** Python, Java, Flutter  
 - **Game Engines:** Unity, Unreal Engine  
 - **Cybersecurity:** BurpSuite, custom tool integration  
@@ -15,7 +15,7 @@
 
 ---
 
-### 🚀 Projects  
+###  Projects  
 1. **Password Manager App**  
    - Python + Tkinter + SQLite  
    - Helps users generate and manage strong, secure passwords.  
@@ -26,15 +26,5 @@
 
 ---
 
-### 📌 Current Focus  
-- Machine Learning (esp. **NLP**)  
-- Expanding into **R** for statistical modeling  
-
----
-
 ### 🌐 Connect  
 [LinkedIn](https://www.linkedin.com/in/andres-emilio-miranda-872a67166)  
-
----
-
-💡 *“Still learning, always building.”*  
