@@ -8,7 +8,7 @@ Bachelor’s in **Software Engineering** (UAQ)
 ---
 
 ###  Skills & Tools  
-- **Languages:** Python, Java, Flutter  
+- **Languages:** Python, Java, Docker  
 - **Game Engines:** Unity, Unreal Engine  
 - **Cybersecurity:** BurpSuite, custom tool integration  
 - **Databases & GUI:** SQLite, Tkinter  
@@ -21,8 +21,16 @@ Bachelor’s in **Software Engineering** (UAQ)
    - Helps users generate and manage strong, secure passwords.  
 
 2. **Hand Gesture Recognition**  
-   - Depth camera + Unity  
-   - Tracks hands, detects pinches, fists, and finger flexes for complex gesture control in graphical interfaces.  
+   - Depth camera + Unity + Python
+   - Tracks hands, detects pinches, fists, and finger flexes for complex gesture control in graphical interfaces.
+     
+3. **Diabetes Risk Prediction**
+   - Pytorch + GitHub Actions + Docker
+   - Simulated prediction for short-term disease progression risk for diabetes patient, generating a continuous risk score which the user can consult with a simple remote connection.
+
+4. **JobTracker**
+   - Java + NLP (Lemmatization, Tokenization, NER)
+   - API to help users automatically classify and manage recruitment emails as well as extract application status.
 
 ---
 
